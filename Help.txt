@@ -1,0 +1,14 @@
+
+    How To Use?
+    After opening the Weather Forecast Window,  
+    just type in the city or the country and    
+    click on Weather forecast button and you    
+    will get the temperature of that city in    
+    degree centigrade and degree fahrenheit.     
+
+
+    For any other help feel free to Contact Us @
+    shreyaskumar.12010414@lpu.in or
+    atul.12010458@lpu.in or
+    nihal.12010482@lpu.in
+
